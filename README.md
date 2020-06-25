@@ -3,5 +3,5 @@ Simple boiler template of requires files to start new project.
 
 ## to run project just type:
 ```
-*temporarily unavailable*
+*$ git clone https://github.com/MichalJozwa/boiler-template.git*
 ```
